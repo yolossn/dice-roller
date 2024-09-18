@@ -7,7 +7,6 @@ metadata:
     - go
   annotations:
     "backstage.io/kubernetes-id": dice-roller
-    "backstage.io/kubernetes-namespace": default
 spec:
   type: service
   lifecycle: production
